@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    "Hey what's up?"
+    "Hello"
   );
 }
 
